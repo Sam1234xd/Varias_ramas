@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-
+<center>
     <!-- Título principal de la página -->
     <h1>Saludos en diferentes idiomas</h1>
 
@@ -77,6 +77,7 @@
     ?>
 
     <br>
+</center>
 
 </body>
 </html>

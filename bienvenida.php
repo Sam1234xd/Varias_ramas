@@ -10,7 +10,7 @@
 <body>
 
     <!-- Título principal de la página -->
-    <h1>Bienvenido a mi página</h1>
+    <Center><h1>Bienvenido a mi página</h1>
 
     <?php
 
@@ -48,6 +48,6 @@
     <a class="boton" href="saludos.php">
         Saludos
     </a>
-
+</center>
 </body>
 </html>
