@@ -35,5 +35,9 @@
         <img src="logo/images.jfif" class="icono">
     </h1>
 
+    <a class="boton" href="saludos.php">
+            Saludos
+        </a>
+
 </body>
 </html>
